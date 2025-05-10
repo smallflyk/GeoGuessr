@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geoguessr.im/sitemap.xml 
